@@ -1,0 +1,38 @@
+bodypart
+1	right foot
+2	left foot
+3	head
+
+
+assist_method
+0	None
+1	Pass (basic)
+2	Cross
+3	Headed pass
+4	Through ball (ground)
+5       Shot rebound
+6       Through ball (air)
+7       Cutback/low-driven
+
+
+
+situation
+1	Open play
+2	Set piece
+3	Corner
+4	Direct Free kick
+5       Penalty Kick/pen rebound
+
+
+
+
+
+
+
+
+
+
+
+
+
+
